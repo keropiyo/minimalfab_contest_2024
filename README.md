@@ -1,0 +1,2 @@
+# minimalfab_contest_2024
+minimalfab_contest_2024提出したものです
