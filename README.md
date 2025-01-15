@@ -22,5 +22,8 @@ xschemで回路図を作成しました。
 Vbaiseが1.5VでVinがSin波　SIN（1.5V 0.05 1Mg)の場合　増幅していることがわかる。
 <img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/vin-vout.png"  width="800" height="auto" />
 
+増福回路　spice　（common-source-amplifier.spice）
+ｌｖｓに必要なspiceです。
 
+DRCは通っています。LVSは使ってない素子でエラーがありますがよしとしました。
 　
