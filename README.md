@@ -5,7 +5,7 @@
 
 増福回路　レイアウト（common-source-amplifier.gds）
 空いてるところにDRCが通るように「福」の字を入れてみました！
-![image](https://github.com/keropiyo/minimalfab_contest_2024/blob/main/common-source-amplifier.png)
+<img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/common-source-amplifier.png  width="800" height="auto" />
 
 
 増福回路　回路図（common-source-amplifier.sch）
