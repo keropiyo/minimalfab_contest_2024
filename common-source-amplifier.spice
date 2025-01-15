@@ -1,0 +1,11 @@
+** sch_path: /home/keropiyo/OpenRule1umPDK_setupEDA/xschem/common-source-amplifier.sch
+.subckt common-source-amplifier VDD Vbias Vout Vin VSS
+*.iopin Vout
+*.iopin Vbias
+*.iopin Vin
+*.iopin VDD
+*.iopin VSS
+M2 Vout Vbias VDD VDD pch w=40u l=10u as=0 ps=0 ad=0 pd=0 m=1
+M1 Vout Vin VSS VSS nch w=10u l=10u as=0 ps=0 ad=0 pd=0 m=1
+.ends
+.end
