@@ -23,7 +23,5 @@ Vbaiseが1.5VでVinがSin波　SIN（1.3V 0.05 1Mg)の場合　増幅してい�
 <img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/vin-vout.png"  width="800" height="auto" />
 
 増福回路　spice　（common-source-amplifier.spice）
-ｌｖｓに必要なspiceです。
 
-DRCは通っています。LVSは使ってない素子でエラーがありますがよしとしました。
 　
