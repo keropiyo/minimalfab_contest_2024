@@ -10,4 +10,5 @@
 
 増福回路　回路図（common-source-amplifier.sch）
 xschemで回路図を作成しました。
-![image](https://github.com/keropiyo/minimalfab_contest_2024/blob/main/common-source-amplifier_sch.png)
+<img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/common-source-amplifier_sch.png" width="500" height="auto" />
+
