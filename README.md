@@ -12,3 +12,7 @@
 xschemで回路図を作成しました。
 <img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/common-source-amplifier_sch.png" width="500" height="auto" />
 
+増福回路　ベンチマーク（tb_common-source-amplifier.sch）
+この回路のベンチマークを作成しました。
+<img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/tb_common-source-amplifier_sch.png"  width="500" height="auto" />
+
