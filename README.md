@@ -30,6 +30,7 @@ Vbaiseが1.5VでVinがSin波　SIN（1.3V 0.05 1Mg)の場合　増幅してい�
 
 ## Top画像
 <img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/PCBTOP.png"  width="500" height="auto" />
+
 ## Bottom画像
 <img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/PCBBOTTOM.png"  width="500" height="auto" />
 
