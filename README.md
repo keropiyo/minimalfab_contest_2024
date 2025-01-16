@@ -24,4 +24,10 @@ Vbaiseが1.5VでVinがSin波　SIN（1.3V 0.05 1Mg)の場合　増幅してい�
 
 増福回路　spice　（common-source-amplifier.spice）
 
-　
+増福回路　プリント基板（GerBerDATA）
+この増福回路を使って何かできないかと、ミニマルファブのチップを繋げて試せる基板を作ってみました！ガーバーデーターを置いておきます。
+Top画像
+<img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/PCBTOP.png"  width="500" height="auto" />
+Bottom画像
+<img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/PCBOTTOM.png"  width="500" height="auto" />
+
