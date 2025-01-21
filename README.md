@@ -26,8 +26,17 @@ Vbaiseが1.5VでVinがSin波　SIN（1.3V 0.05 1Mg)の場合　増幅してい�
 
 増福回路　プリント基板（GerBerDATA）
 この増福回路を使って何かできないかと、ミニマルファブのチップを繋げて試せる基板を作ってみました！
-ガーバーデーターをまとめてフォルダに置いております。
+ガーバーデーターをまとめてフォルダに置いております。(フルカラーを追加しました）
 
+フルカラーバージョン
+フルカラーバージョンのガーバーデーター（ZIP）はFULLCOROLフィオルダにあります。
+## Top画像
+<img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/FULLCOLOR/OMOTE.png"  width="500" height="auto" />
+
+## Bottom画像
+<img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/FULLCOLOR/URA.png"  width="500" height="auto" />
+
+カラー
 ## Top画像
 <img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/PCBTOP.png"  width="500" height="auto" />
 
