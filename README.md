@@ -28,7 +28,7 @@ Vbaiseが1.5VでVinがSin波　SIN（1.3V 0.05 1Mg)の場合　増幅してい�
 この増福回路を使って何かできないかと、ミニマルファブのチップを繋げて試せる基板を作ってみました！
 ガーバーデーターをまとめてフォルダに置いております。(フルカラーを追加しました）
 
-フルカラーバージョン
+# フルカラーバージョン
 フルカラーバージョンのガーバーデーター（ZIP）はFULLCOROLフィオルダにあります。
 ## Top画像
 <img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/FULLCOLOR/OMOTE.png"  width="500" height="auto" />
@@ -36,7 +36,11 @@ Vbaiseが1.5VでVinがSin波　SIN（1.3V 0.05 1Mg)の場合　増幅してい�
 ## Bottom画像
 <img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/FULLCOLOR/URA.png"  width="500" height="auto" />
 
-カラー
+## PAD番号画像
+<img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/FULLCOLOR/PADNO.png"  width="500" height="auto" />
+
+
+# カラー (カラーバージョンはPADが２４しかないです）
 ## Top画像
 <img src="https://github.com/keropiyo/minimalfab_contest_2024/blob/main/PCBTOP.png"  width="500" height="auto" />
 
